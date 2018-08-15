@@ -1,0 +1,11 @@
+C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\bin\Debug\netcoreapp2.0\Agenda.deps.json
+C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\bin\Debug\netcoreapp2.0\Agenda.runtimeconfig.json
+C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\bin\Debug\netcoreapp2.0\Agenda.runtimeconfig.dev.json
+C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\bin\Debug\netcoreapp2.0\Agenda.dll
+C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\bin\Debug\netcoreapp2.0\Agenda.pdb
+C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\obj\Debug\netcoreapp2.0\Agenda.csprojResolveAssemblyReference.cache
+C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\obj\Debug\netcoreapp2.0\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\obj\Debug\netcoreapp2.0\Agenda.AssemblyInfoInputs.cache
+C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\obj\Debug\netcoreapp2.0\Agenda.AssemblyInfo.cs
+C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\obj\Debug\netcoreapp2.0\Agenda.dll
+C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\obj\Debug\netcoreapp2.0\Agenda.pdb
