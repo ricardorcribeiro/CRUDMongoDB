@@ -5260,23 +5260,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ricar\\.nuget\\packages\\": {},
+    "C:\\Users\\7700364371\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricar\\Desktop\\Estudos\\AspNetCore\\MongoDBCRUD\\Agenda\\Agenda.csproj",
+      "projectUniqueName": "C:\\Users\\7700364371\\Desktop\\testes\\ProjetoMongo\\CRUDMongoDB\\Agenda\\Agenda.csproj",
       "projectName": "Agenda",
-      "projectPath": "C:\\Users\\ricar\\Desktop\\Estudos\\AspNetCore\\MongoDBCRUD\\Agenda\\Agenda.csproj",
-      "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricar\\Desktop\\Estudos\\AspNetCore\\MongoDBCRUD\\Agenda\\obj\\",
+      "projectPath": "C:\\Users\\7700364371\\Desktop\\testes\\ProjetoMongo\\CRUDMongoDB\\Agenda\\Agenda.csproj",
+      "packagesPath": "C:\\Users\\7700364371\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\7700364371\\Desktop\\testes\\ProjetoMongo\\CRUDMongoDB\\Agenda\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\7700364371\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

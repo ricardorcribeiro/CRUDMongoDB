@@ -19,7 +19,7 @@ namespace Agenda
 
             Console.WriteLine("obtendo conecao de contatos");
             //colecao aonde vai armazenar nosso objeto de pessoa
-            IMongoCollection<Pessoa> colecao = database.GetCollection<Pessoa>("contatos");
+            IMongoCollection<Pessoa> colecao = database.GetCollection<Pessoa>("Pessoa");
 
             // Console.WriteLine("inserindo pessoa");
             // InserirPessoa(colecao);
@@ -43,7 +43,11 @@ namespace Agenda
             var filtro = Builders<Pessoa>.Filter.Empty;
             var pessoas = colecao.Find<Pessoa>(filtro).ToList();//esse metodo pode ser tipado ou nao!
 
-            pessoas.ForEach(x=> Console.WriteLine($"nome: {x.Nome}, Telefone: {x.Telefone}, Ativo:{x.Ativo}"));
+            pessoas.ForEach(x =>
+            {
+                Console.WriteLine($"nome: {x.Nome}, Telefone: {x.Telefone}, Ativo:{x.Ativo}, Email:{x.Email}");
+                x.Enderecos.ForEach(e=> Console.WriteLine($"Cidade:{e.Cidade}, pais:{e.Pais}"));
+            });
         }
 
         public static void InserirPessoa(IMongoCollection<Pessoa> colecao)
@@ -87,7 +91,7 @@ namespace Agenda
 
         private static void ExcluirPessoa(IMongoCollection<Pessoa> colecao)
         {
-            var filtro = Builders<Pessoa>.Filter.Where(x=> x.Nome.Contains("3"));
+            var filtro = Builders<Pessoa>.Filter.Where(x => x.Nome.Contains("3"));
             colecao.DeleteMany(filtro);
         }
 

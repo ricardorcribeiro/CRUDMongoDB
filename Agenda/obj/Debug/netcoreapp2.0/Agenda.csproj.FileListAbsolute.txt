@@ -9,3 +9,14 @@ C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\obj\Debug\netcoreap
 C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\obj\Debug\netcoreapp2.0\Agenda.AssemblyInfo.cs
 C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\obj\Debug\netcoreapp2.0\Agenda.dll
 C:\Users\ricar\Desktop\Estudos\AspNetCore\MongoDBCRUD\Agenda\obj\Debug\netcoreapp2.0\Agenda.pdb
+C:\Users\7700364371\Desktop\testes\ProjetoMongo\CRUDMongoDB\Agenda\bin\Debug\netcoreapp2.0\Agenda.deps.json
+C:\Users\7700364371\Desktop\testes\ProjetoMongo\CRUDMongoDB\Agenda\bin\Debug\netcoreapp2.0\Agenda.runtimeconfig.json
+C:\Users\7700364371\Desktop\testes\ProjetoMongo\CRUDMongoDB\Agenda\bin\Debug\netcoreapp2.0\Agenda.runtimeconfig.dev.json
+C:\Users\7700364371\Desktop\testes\ProjetoMongo\CRUDMongoDB\Agenda\bin\Debug\netcoreapp2.0\Agenda.dll
+C:\Users\7700364371\Desktop\testes\ProjetoMongo\CRUDMongoDB\Agenda\bin\Debug\netcoreapp2.0\Agenda.pdb
+C:\Users\7700364371\Desktop\testes\ProjetoMongo\CRUDMongoDB\Agenda\obj\Debug\netcoreapp2.0\Agenda.csprojAssemblyReference.cache
+C:\Users\7700364371\Desktop\testes\ProjetoMongo\CRUDMongoDB\Agenda\obj\Debug\netcoreapp2.0\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\7700364371\Desktop\testes\ProjetoMongo\CRUDMongoDB\Agenda\obj\Debug\netcoreapp2.0\Agenda.AssemblyInfoInputs.cache
+C:\Users\7700364371\Desktop\testes\ProjetoMongo\CRUDMongoDB\Agenda\obj\Debug\netcoreapp2.0\Agenda.AssemblyInfo.cs
+C:\Users\7700364371\Desktop\testes\ProjetoMongo\CRUDMongoDB\Agenda\obj\Debug\netcoreapp2.0\Agenda.dll
+C:\Users\7700364371\Desktop\testes\ProjetoMongo\CRUDMongoDB\Agenda\obj\Debug\netcoreapp2.0\Agenda.pdb
